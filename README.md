@@ -1,1 +1,1 @@
-Opensource Discord Gif bot
+# Open source Discord Gif Bot
